@@ -1,11 +1,35 @@
-- 👋 Hi, I’m @arponitis
-- 👀 I’m interested in COMPUTER VISION
-- 🌱 I’m currently learning the relation between XTENDED REALITY and COMPUTER VISION
-- 💞️ I’m looking to collaborate on literally ANYTHING (that matches my interest ofc!)
-- 📫 How to reach me (EMAIL ME AT): shahriar.arpon@outlook.com
+# 👋 Hi there, I'm Shahriar (aka @arponitis)
 
-<!---
-arponitis/arponitis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![Snake animation](https://github.com/arponitis/arponitis/blob/output/github-contribution-grid-snake.svg)
+🚀 **AI & Computer Vision Engineer** passionate about building intelligent systems that see and understand the world.  
+I love exploring how **Extended Reality (XR)** and **Computer Vision** come together to create immersive, human-centric experiences.
+
+---
+
+### 👀 What I’m Into
+- 🧠 Computer Vision, Image Processing, and Generative AI  
+- 🔍 Retrieval-Augmented Generation (RAG) and Vision-Language Models  
+- 🌐 XR Interfaces and Real-World 3D Perception  
+- ⚙️ FastAPI, PyTorch, LangChain, OpenCV  
+
+---
+
+### 🌱 What I’m Learning
+I’m currently diving deeper into the intersection of **XR and Computer Vision**, focusing on how spatial understanding and multimodal AI can enhance next-gen interactive environments.
+
+---
+
+### 🤝 Collaboration
+I’m open to collaborating on:
+- Applied AI research projects  
+- Open-source tools for visual understanding  
+- Prototyping XR + CV demos and experiments  
+
+If you’re building something exciting in AI or vision tech — let’s talk!
+
+---
+
+### 📫 Reach Me
+📧 **shahriar.arpon@outlook.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/shahriar-bulbul)
+
+---
